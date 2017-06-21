@@ -1,0 +1,13 @@
+.navButton { float:left;margin-left:3%; margin-top:2vh; height:80%; width:auto; padding-left:1vw; padding-right:1vw; color:#000080; background:#FFF; font-size:2vw; text-align:center; cursor:pointer;}
+
+#findtype { float:left; width:45%; height:75%; margin-top:1vh; }
+#findCustom { float:left; width:45%; height:75%; margin-top:1vh;}
+#backCUP { width:50%; float:right; height:75%; opacity:0; margin-top:1vh;}
+.overlap   { border: 1px solid black; margin: -1px; pointer-events: none; }
+
+.MultipleA {float:left; margin-left:1vw; width:62%;}
+.MultipleB {float:left; margin-left:1vw; width:59%;}
+.MultipleC {float:right; width:48%;}
+.multiName {float:left; width:17%; margin-top: -1.2vw; margin-right: 0.5vw;}
+.multiNameB {float:left; width:17%; margin-top: -1.2vw;}
+.multiQ {float:left; width:100%; clear:left; margin-top:0.5vw;}
